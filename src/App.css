@@ -26,3 +26,10 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.share_container{
+  width: 50px;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+}
