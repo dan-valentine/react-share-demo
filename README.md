@@ -1,34 +1,14 @@
 ## Intro to react-share
 
 react-share is a wonderful library that makes it easy to create share buttons for react. It makes an easy to use react component to share media with people on a lot of different socail media platforms. <a href='https://github.com/nygardk/react-share' >Click here to see the docs.</a>
-
-## What does it have share buttons for?
-
-    Facebook
-    Twitter
-    Telegram
-    Google+
-    Whatsapp
-    LinkedIn
-    Pinterest
-    VK
-    Odnoklassniki
-    Reddit
-    Tumblr
-    Mail.Ru
-    LiveJournal
-    email
-
-## What does it have share counts for?
-
-    Facebook
-    Google+
-    Linkedin
-    Pinterest
-    VK
-    Odnoklassniki
-    Reddit
-    Tumblr
+## Installation 
+```bash
+npm install react-share
+```
+or
+```bash
+yarn add react-share
+```
 
 ## How Hard is it to use?
 1/10
@@ -62,5 +42,36 @@ Got that to!
 </FacebookShareButton>
 ```
 
+## What does it have share buttons for?
+
+    Facebook
+    Twitter
+    Telegram
+    Google+
+    Whatsapp
+    LinkedIn
+    Pinterest
+    VK
+    Odnoklassniki
+    Reddit
+    Tumblr
+    Mail.Ru
+    LiveJournal
+    email
+
+## What does it have share counts for?
+
+    Facebook
+    Google+
+    Linkedin
+    Pinterest
+    VK
+    Odnoklassniki
+    Reddit
+    Tumblr
+
 ## Wow that is easy and cool!
 I know
+
+## Do you have more examples?
+Ya, there right here! Just fork, clone, intstall and play!
