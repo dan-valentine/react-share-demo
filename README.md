@@ -34,6 +34,7 @@ react-share is a wonderful library that makes it easy to create share buttons fo
 1/10
 
 ## Can you show me a simple example?
+Just add a url you would like to share to any of the share button components and you are ready to go! There are additional setting you can put in for each place you share
 
 ```html
 <FacebookShareButton url="https://devmountain.com/">
@@ -51,3 +52,15 @@ They have them built in?
 
 ## Share Counts? 
 Got that to!
+
+```html
+<FacebookShareButton url="https://devmountain.com/">
+  <div className="share_container">
+    <FacebookIcon size={50} round={true} />
+    <FacebookShareCount url="https://devmountain.com/" />
+  </div>
+</FacebookShareButton>
+```
+
+## Wow that is easy and cool!
+<iframe src="https://giphy.com/embed/LaabpwEUXVUhq" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
